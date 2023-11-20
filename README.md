@@ -17,7 +17,7 @@ patient outcomes and increasing the likelihood of successful treatment. Advances
 imaging technology and machine learning algorithms over the years have greatly improved the
 accuracy and efficiency of brain tumor detection.
 
-#Flow Chart 
+# Flow Chart 
 ![image](https://github.com/Kuagbe123/Brain-Tumor-Detection-/assets/89991027/b4885485-eb35-4700-89c8-9e48983ea01c)
 
 # Perfomance of the classification
