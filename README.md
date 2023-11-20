@@ -42,6 +42,10 @@ Specificity (True Negative Rate): 92%
 Dice Coefficient: 0.87
 Jaccard Index: 0.82
 
+# A short video demo
+https://github.com/Kuagbe123/Brain-Tumor-Detection-/assets/89991027/250eb4f5-7063-4c32-9c5f-567e56372769
+
+
 
 
 
